@@ -1,4 +1,4 @@
-<?php // Serve Project PHP
+<?php // Server Project PHP
 
 
 ?>
